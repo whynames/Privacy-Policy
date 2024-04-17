@@ -1,5 +1,9 @@
 **Privacy Policy**
 
+
+ <A HREF = "Privacy-Policy-Data-Collect.html">Brain Blocks Challenge Privacy Policy</A>
+
+ 
 This privacy policy applies to the Food Delivery Run app (hereby referred to as "Application") for mobile devices that was created by Botan Sahin (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
